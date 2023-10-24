@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh
-- 👀 I’m interested in crafting the best mobile app experiences 
+- 👀 I’m interested in crafting the best mobile app experiences
 - 🌱 I’m currently learning cloud engineering
-- 💞️ I’m looking to collaborate on your interesting mobile app ideas
+- 💞️ I’m looking to collaborate on your interesting product app ideas
 - 📫 How to reach me localdev.joshua@gmail.com
 
 <!---
