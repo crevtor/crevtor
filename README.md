@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crevtor
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in crafting the best mobile app experiences 
 - 🌱 I’m currently learning cloud engineering
 - 💞️ I’m looking to collaborate on your interesting mobile app ideas
